@@ -39,9 +39,7 @@ FT_IRC/
 │   ├── Bot.hpp
 │   ├── main.cpp
 │   └── Makefile
-├── bandwidth_test.py # Bandwidth test utility
-├── Makefile          # Main project Makefile
-└── .vscode/
+└── Makefile          # Main project Makefile
 ```
 
 ## Build Instructions
